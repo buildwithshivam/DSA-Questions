@@ -30,3 +30,11 @@ If you’re also on a DSA journey, feel free to:
 🍴 Fork it to start your own daily challenge
 
 💬 Share ideas or improvements through Pull Requests
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/buildwithshivam/DSA-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
