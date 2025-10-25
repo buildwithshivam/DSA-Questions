@@ -42,6 +42,7 @@ If you’re also on a DSA journey, feel free to:
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
@@ -60,4 +61,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
