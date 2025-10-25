@@ -46,6 +46,7 @@ If you’re also on a DSA journey, feel free to:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0009-palindrome-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Hash Table
 |  |
