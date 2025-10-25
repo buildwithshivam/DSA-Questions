@@ -43,4 +43,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Math
+|  |
+| ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
