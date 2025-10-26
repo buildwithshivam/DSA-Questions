@@ -45,6 +45,7 @@ If you’re also on a DSA journey, feel free to:
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,12 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
