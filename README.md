@@ -47,11 +47,13 @@ If you’re also on a DSA journey, feel free to:
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0009-palindrome-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +91,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
