@@ -68,6 +68,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/buildwithshivam/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
