@@ -48,6 +48,7 @@ If you’re also on a DSA journey, feel free to:
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -94,8 +95,13 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
