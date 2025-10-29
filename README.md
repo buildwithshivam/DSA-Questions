@@ -58,6 +58,7 @@ If you’re also on a DSA journey, feel free to:
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/buildwithshivam/DSA-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/buildwithshivam/DSA-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
