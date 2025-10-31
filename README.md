@@ -81,6 +81,7 @@ If you’re also on a DSA journey, feel free to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/buildwithshivam/DSA-Questions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/buildwithshivam/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/buildwithshivam/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -144,6 +145,7 @@ If you’re also on a DSA journey, feel free to:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/buildwithshivam/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
