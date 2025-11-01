@@ -54,6 +54,7 @@ If you’re also on a DSA journey, feel free to:
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/buildwithshivam/DSA-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
@@ -74,6 +75,7 @@ If you’re also on a DSA journey, feel free to:
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/buildwithshivam/DSA-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -163,4 +165,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
