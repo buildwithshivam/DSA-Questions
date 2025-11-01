@@ -173,4 +173,20 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
