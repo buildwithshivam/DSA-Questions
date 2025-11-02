@@ -75,6 +75,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/buildwithshivam/DSA-Questions/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
@@ -111,6 +112,7 @@ If you’re also on a DSA journey, feel free to:
 | [0027-remove-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -177,6 +179,7 @@ If you’re also on a DSA journey, feel free to:
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
