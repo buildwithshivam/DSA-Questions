@@ -53,6 +53,7 @@ If you’re also on a DSA journey, feel free to:
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -95,6 +96,7 @@ If you’re also on a DSA journey, feel free to:
 | [0290-word-pattern](https://github.com/buildwithshivam/DSA-Questions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
@@ -106,6 +108,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +158,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
