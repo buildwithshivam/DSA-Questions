@@ -187,6 +187,7 @@ If you’re also on a DSA journey, feel free to:
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
