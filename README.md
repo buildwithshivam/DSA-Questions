@@ -126,6 +126,7 @@ If you’re also on a DSA journey, feel free to:
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/buildwithshivam/DSA-Questions/tree/master/0969-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
@@ -201,4 +202,12 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/buildwithshivam/DSA-Questions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/buildwithshivam/DSA-Questions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
