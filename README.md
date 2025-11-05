@@ -42,6 +42,7 @@ If you’re also on a DSA journey, feel free to:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/buildwithshivam/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/buildwithshivam/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/buildwithshivam/DSA-Questions/tree/master/0031-next-permutation) |
@@ -119,6 +120,7 @@ If you’re also on a DSA journey, feel free to:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/buildwithshivam/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -126,6 +128,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/buildwithshivam/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/buildwithshivam/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/buildwithshivam/DSA-Questions/tree/master/0031-next-permutation) |
