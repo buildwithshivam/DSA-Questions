@@ -67,6 +67,7 @@ If you’re also on a DSA journey, feel free to:
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ If you’re also on a DSA journey, feel free to:
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/buildwithshivam/DSA-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -218,10 +220,12 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +243,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
 | ------- |
@@ -247,4 +252,16 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/buildwithshivam/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
