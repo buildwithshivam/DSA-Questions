@@ -47,6 +47,7 @@ If you’re also on a DSA journey, feel free to:
 | [0027-remove-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/buildwithshivam/DSA-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -142,6 +143,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/buildwithshivam/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
@@ -214,6 +216,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/buildwithshivam/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
