@@ -56,6 +56,7 @@ If you’re also on a DSA journey, feel free to:
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0274-h-index) |
+| [0334-increasing-triplet-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
@@ -144,6 +145,7 @@ If you’re also on a DSA journey, feel free to:
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
