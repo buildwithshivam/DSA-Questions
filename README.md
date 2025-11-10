@@ -54,6 +54,7 @@ If you’re also on a DSA journey, feel free to:
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0274-h-index) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -191,6 +192,7 @@ If you’re also on a DSA journey, feel free to:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
