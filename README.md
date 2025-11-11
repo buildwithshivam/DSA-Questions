@@ -47,6 +47,7 @@ If you’re also on a DSA journey, feel free to:
 | [0027-remove-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/buildwithshivam/DSA-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -102,6 +103,7 @@ If you’re also on a DSA journey, feel free to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/buildwithshivam/DSA-Questions/tree/master/0290-word-pattern) |
@@ -203,6 +205,7 @@ If you’re also on a DSA journey, feel free to:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
