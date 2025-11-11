@@ -68,6 +68,7 @@ If you’re also on a DSA journey, feel free to:
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -107,6 +108,7 @@ If you’re also on a DSA journey, feel free to:
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/buildwithshivam/DSA-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -175,12 +177,14 @@ If you’re also on a DSA journey, feel free to:
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0274-h-index) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Design
 |  |
 | ------- |
