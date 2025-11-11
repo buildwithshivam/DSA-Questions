@@ -63,6 +63,7 @@ If you’re also on a DSA journey, feel free to:
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -143,6 +144,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -208,6 +210,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -216,6 +219,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/buildwithshivam/DSA-Questions/tree/master/0069-sqrtx) |
+| [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Bit Manipulation
 |  |
