@@ -59,6 +59,7 @@ If you’re also on a DSA journey, feel free to:
 | [0274-h-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
@@ -132,6 +133,7 @@ If you’re also on a DSA journey, feel free to:
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
@@ -224,6 +226,7 @@ If you’re also on a DSA journey, feel free to:
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [1236-n-th-tribonacci-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
