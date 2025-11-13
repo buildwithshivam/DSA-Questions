@@ -56,6 +56,7 @@ If you’re also on a DSA journey, feel free to:
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0334-increasing-triplet-subsequence) |
@@ -150,6 +151,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -219,6 +221,7 @@ If you’re also on a DSA journey, feel free to:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/buildwithshivam/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -230,6 +233,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/buildwithshivam/DSA-Questions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Bit Manipulation
