@@ -93,6 +93,7 @@ If you’re also on a DSA journey, feel free to:
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/buildwithshivam/DSA-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -110,6 +111,7 @@ If you’re also on a DSA journey, feel free to:
 | [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/buildwithshivam/DSA-Questions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
@@ -186,6 +188,7 @@ If you’re also on a DSA journey, feel free to:
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
