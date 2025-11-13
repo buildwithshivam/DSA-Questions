@@ -143,6 +143,7 @@ If you’re also on a DSA journey, feel free to:
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/buildwithshivam/DSA-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +166,7 @@ If you’re also on a DSA journey, feel free to:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/buildwithshivam/DSA-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
@@ -264,6 +266,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/buildwithshivam/DSA-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## String Matching
 |  |
 | ------- |
