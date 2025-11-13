@@ -288,6 +288,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -295,6 +296,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
@@ -303,6 +305,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
@@ -311,6 +314,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0100-same-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Queue
