@@ -143,6 +143,7 @@ If you’re also on a DSA journey, feel free to:
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -263,6 +264,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/buildwithshivam/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -382,4 +384,8 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/buildwithshivam/DSA-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
