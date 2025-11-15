@@ -293,6 +293,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -387,5 +388,6 @@ If you’re also on a DSA journey, feel free to:
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
