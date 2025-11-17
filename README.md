@@ -49,6 +49,7 @@ If you’re also on a DSA journey, feel free to:
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ If you’re also on a DSA journey, feel free to:
 | [0009-palindrome-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/buildwithshivam/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/buildwithshivam/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/buildwithshivam/DSA-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
@@ -229,6 +231,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
