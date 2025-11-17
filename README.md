@@ -70,6 +70,7 @@ If you’re also on a DSA journey, feel free to:
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/buildwithshivam/DSA-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/buildwithshivam/DSA-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
