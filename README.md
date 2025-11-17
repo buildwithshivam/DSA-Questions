@@ -199,6 +199,7 @@ If you’re also on a DSA journey, feel free to:
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +298,7 @@ If you’re also on a DSA journey, feel free to:
 | [0083-remove-duplicates-from-sorted-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
