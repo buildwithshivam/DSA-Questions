@@ -65,6 +65,7 @@ If you’re also on a DSA journey, feel free to:
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/buildwithshivam/DSA-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
