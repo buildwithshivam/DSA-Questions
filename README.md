@@ -55,6 +55,7 @@ If you’re also on a DSA journey, feel free to:
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildwithshivam/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/buildwithshivam/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -201,6 +202,7 @@ If you’re also on a DSA journey, feel free to:
 | [0125-valid-palindrome](https://github.com/buildwithshivam/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildwithshivam/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -254,6 +256,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0035-search-insert-position](https://github.com/buildwithshivam/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/buildwithshivam/DSA-Questions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/buildwithshivam/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
