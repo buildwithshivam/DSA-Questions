@@ -320,6 +320,7 @@ If you’re also on a DSA journey, feel free to:
 | [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -329,6 +330,7 @@ If you’re also on a DSA journey, feel free to:
 | [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -349,6 +351,7 @@ If you’re also on a DSA journey, feel free to:
 | [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 ## Queue
 |  |
 | ------- |
