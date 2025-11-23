@@ -84,6 +84,7 @@ If you’re also on a DSA journey, feel free to:
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2536-increment-submatrices-by-one](https://github.com/buildwithshivam/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/buildwithshivam/DSA-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -251,6 +252,7 @@ If you’re also on a DSA journey, feel free to:
 | [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2536-increment-submatrices-by-one](https://github.com/buildwithshivam/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +262,7 @@ If you’re also on a DSA journey, feel free to:
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2536-increment-submatrices-by-one](https://github.com/buildwithshivam/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
