@@ -164,6 +164,7 @@ If you’re also on a DSA journey, feel free to:
 | [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
+| [0649-dota2-senate](https://github.com/buildwithshivam/DSA-Questions/tree/master/0649-dota2-senate) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -192,6 +193,7 @@ If you’re also on a DSA journey, feel free to:
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/buildwithshivam/DSA-Questions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/buildwithshivam/DSA-Questions/tree/master/0649-dota2-senate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -376,6 +378,7 @@ If you’re also on a DSA journey, feel free to:
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/buildwithshivam/DSA-Questions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/buildwithshivam/DSA-Questions/tree/master/0969-number-of-recent-calls) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Data Stream
