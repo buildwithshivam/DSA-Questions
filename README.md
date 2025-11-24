@@ -70,6 +70,7 @@ If you’re also on a DSA journey, feel free to:
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/buildwithshivam/DSA-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
@@ -277,6 +278,7 @@ If you’re also on a DSA journey, feel free to:
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/buildwithshivam/DSA-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/buildwithshivam/DSA-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
