@@ -107,6 +107,7 @@ If you’re also on a DSA journey, feel free to:
 | [0189-rotate-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -130,6 +131,7 @@ If you’re also on a DSA journey, feel free to:
 | [0290-word-pattern](https://github.com/buildwithshivam/DSA-Questions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/buildwithshivam/DSA-Questions/tree/master/0383-ransom-note) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/buildwithshivam/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
