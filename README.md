@@ -85,6 +85,7 @@ If you’re also on a DSA journey, feel free to:
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/buildwithshivam/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/buildwithshivam/DSA-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -257,6 +258,7 @@ If you’re also on a DSA journey, feel free to:
 | [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/buildwithshivam/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
@@ -300,6 +302,7 @@ If you’re also on a DSA journey, feel free to:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
