@@ -185,6 +185,7 @@ If you’re also on a DSA journey, feel free to:
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/buildwithshivam/DSA-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/buildwithshivam/DSA-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -262,6 +263,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/buildwithshivam/DSA-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -329,6 +331,7 @@ If you’re also on a DSA journey, feel free to:
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/buildwithshivam/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/buildwithshivam/DSA-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
