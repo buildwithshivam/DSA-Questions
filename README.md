@@ -118,6 +118,7 @@ If you’re also on a DSA journey, feel free to:
 | [0380-insert-delete-getrandom-o1](https://github.com/buildwithshivam/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/buildwithshivam/DSA-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/buildwithshivam/DSA-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
