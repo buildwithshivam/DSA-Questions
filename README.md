@@ -121,6 +121,7 @@ If you’re also on a DSA journey, feel free to:
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/buildwithshivam/DSA-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/buildwithshivam/DSA-Questions/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/buildwithshivam/DSA-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -470,6 +471,7 @@ If you’re also on a DSA journey, feel free to:
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/buildwithshivam/DSA-Questions/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/buildwithshivam/DSA-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Recursion
 |  |
