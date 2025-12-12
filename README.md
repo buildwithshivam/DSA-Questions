@@ -94,6 +94,7 @@ If you’re also on a DSA journey, feel free to:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/buildwithshivam/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/buildwithshivam/DSA-Questions/tree/master/3531-count-covered-buildings) |
@@ -130,6 +131,7 @@ If you’re also on a DSA journey, feel free to:
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/buildwithshivam/DSA-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/buildwithshivam/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/buildwithshivam/DSA-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/buildwithshivam/DSA-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -264,6 +266,7 @@ If you’re also on a DSA journey, feel free to:
 | [1262-greatest-sum-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/buildwithshivam/DSA-Questions/tree/master/3531-count-covered-buildings) |
 ## Design
 |  |
@@ -281,6 +284,7 @@ If you’re also on a DSA journey, feel free to:
 | [2288-count-operations-to-obtain-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
