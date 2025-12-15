@@ -83,6 +83,7 @@ If you’re also on a DSA journey, feel free to:
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/buildwithshivam/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/buildwithshivam/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/buildwithshivam/DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -127,6 +128,7 @@ If you’re also on a DSA journey, feel free to:
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/buildwithshivam/DSA-Questions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/buildwithshivam/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/buildwithshivam/DSA-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -347,6 +349,7 @@ If you’re also on a DSA journey, feel free to:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/buildwithshivam/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/buildwithshivam/DSA-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
