@@ -71,6 +71,7 @@ If you’re also on a DSA journey, feel free to:
 | [0724-find-pivot-index](https://github.com/buildwithshivam/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0944-delete-columns-to-make-sorted](https://github.com/buildwithshivam/DSA-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/buildwithshivam/DSA-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -202,6 +203,7 @@ If you’re also on a DSA journey, feel free to:
 | [0443-string-compression](https://github.com/buildwithshivam/DSA-Questions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/buildwithshivam/DSA-Questions/tree/master/0649-dota2-senate) |
+| [0944-delete-columns-to-make-sorted](https://github.com/buildwithshivam/DSA-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/buildwithshivam/DSA-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/buildwithshivam/DSA-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/buildwithshivam/DSA-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
