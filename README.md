@@ -275,6 +275,7 @@ If you’re also on a DSA journey, feel free to:
 | [0759-set-intersection-size-at-least-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/buildwithshivam/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/buildwithshivam/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/buildwithshivam/DSA-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/buildwithshivam/DSA-Questions/tree/master/3531-count-covered-buildings) |
@@ -419,6 +420,7 @@ If you’re also on a DSA journey, feel free to:
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
+| [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/buildwithshivam/DSA-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -430,6 +432,7 @@ If you’re also on a DSA journey, feel free to:
 | [0112-path-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -470,10 +473,12 @@ If you’re also on a DSA journey, feel free to:
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
