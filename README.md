@@ -422,6 +422,7 @@ If you’re also on a DSA journey, feel free to:
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/buildwithshivam/DSA-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -434,6 +435,7 @@ If you’re also on a DSA journey, feel free to:
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/buildwithshivam/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/buildwithshivam/DSA-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/buildwithshivam/DSA-Questions/tree/master/3863-power-grid-maintenance) |
@@ -460,6 +462,7 @@ If you’re also on a DSA journey, feel free to:
 | [0637-average-of-levels-in-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/buildwithshivam/DSA-Questions/tree/master/0904-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/buildwithshivam/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Queue
 |  |
 | ------- |
