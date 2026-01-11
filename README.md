@@ -57,6 +57,7 @@ If you’re also on a DSA journey, feel free to:
 | [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/buildwithshivam/DSA-Questions/tree/master/0134-gas-station) |
@@ -315,6 +316,7 @@ If you’re also on a DSA journey, feel free to:
 | ------- |
 | [0036-valid-sudoku](https://github.com/buildwithshivam/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/buildwithshivam/DSA-Questions/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/buildwithshivam/DSA-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/buildwithshivam/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -358,6 +360,7 @@ If you’re also on a DSA journey, feel free to:
 | [0005-longest-palindromic-substring](https://github.com/buildwithshivam/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/buildwithshivam/DSA-Questions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/buildwithshivam/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/buildwithshivam/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/buildwithshivam/DSA-Questions/tree/master/0474-ones-and-zeroes) |
@@ -375,6 +378,7 @@ If you’re also on a DSA journey, feel free to:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/buildwithshivam/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/buildwithshivam/DSA-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/buildwithshivam/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -385,6 +389,7 @@ If you’re also on a DSA journey, feel free to:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/buildwithshivam/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/buildwithshivam/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
