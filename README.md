@@ -105,6 +105,7 @@ If you’re also on a DSA journey, feel free to:
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/buildwithshivam/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/buildwithshivam/DSA-Questions/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/buildwithshivam/DSA-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/buildwithshivam/DSA-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/buildwithshivam/DSA-Questions/tree/master/3531-count-covered-buildings) |
@@ -347,6 +348,7 @@ If you’re also on a DSA journey, feel free to:
 | [0209-minimum-size-subarray-sum](https://github.com/buildwithshivam/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/buildwithshivam/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/buildwithshivam/DSA-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3453-separate-squares-i](https://github.com/buildwithshivam/DSA-Questions/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
